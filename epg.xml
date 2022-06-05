@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.5 -- Jan van Straaten" site="vodafone.pt">
   <channels>
-    <channel update="i" site="vodafone.pt" site_id="RTP 1 HD" xmltv_id="RTP1">RTPHD</channel>
+    <channel update="i" site="vodafone.pt" site_id="RTP 1 HD" xmltv_id="RTP1">RTP1</channel>
   </channels>
 </site>
